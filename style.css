@@ -1,0 +1,230 @@
+.circulo{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 500px;
+    /*Establece la altura de todas las imágenes*/
+    height: 500px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 50%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(212, 96, 197);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 10px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
+.circulo2{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 60px;
+    /*Establece la altura de todas las imágenes*/
+    height: 100px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 60%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(29, 11, 117);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 10px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
+.circulo3{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 60px;
+    /*Establece la altura de todas las imágenes*/
+    height: 100px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 60%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(38, 22, 161);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 10px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
+.circulo4{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 60px;
+    /*Establece la altura de todas las imágenes*/
+    height: 100px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 60%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(206, 48, 198);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 10px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
+.circulo5{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 60px;
+    /*Establece la altura de todas las imágenes*/
+    height: 100px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 80%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(27, 8, 24);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 100px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
+.circulo6{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 150px;
+    /*Establece la altura de todas las imágenes*/
+    height: 200px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 50%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(142, 43, 43);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 30px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
+.circulo8{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 150px;
+    /*Establece la altura de todas las imágenes*/
+    height: 200px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 50%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(212, 96, 197);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 30px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
+.circulo7{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 150px;
+    /*Establece la altura de todas las imágenes*/
+    height: 200px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 50%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(212, 96, 197);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 30px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
+.circulo21{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 30px;
+    /*Establece la altura de todas las imágenes*/
+    height: 50px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 60%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(247, 243, 246);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 10px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
+.circulo22{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 60px;
+    /*Establece la altura de todas las imágenes*/
+    height: 90px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 60%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(22, 20, 22);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 10px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
+
+
+.circulo51{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 30px;
+    /*Establece la altura de todas las imágenes*/
+    height: 50px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 60%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(247, 243, 246);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 10px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
+.circulo41{
+    /* Establece el ancho de todas las imágenes en 250 píxeles.*/
+    width: 40px;
+    /*Establece la altura de todas las imágenes*/
+    height: 50px;
+    /*Establece el radio de las esquinas de todas las imágenes en 30 píxeles, lo que crea un efecto de borde redondeado.*/
+    border-radius: 70%;
+    /*Parece que falta un valor para esta propiedad. Deberías especificar un color en hexadecimal, RGB, RGBA, HSL, HSLA, o utilizando palabras clave como "red", "blue", etc.*/
+    background-color: rgb(104, 10, 89);
+    /* Establece el estilo de borde de los elementos con la clase */
+    border-style: solid;
+    /* Agrega un margen de 10 píxeles en la parte inferior del elemento.*/
+    margin-bottom: 10px;
+    display: block;
+    /*Al igual que el valor anterior, parece ser un valor de margen inusual sin una unidad de medida específica. Además, usar un valor negativo (-10cap) podría tener un efecto impredecible y no deseado.*/
+    margin-left: auto;
+    /*Establece el margen izquierdo y derecho del elemento en "auto", lo que hace que el elemento se centre horizontalmente dentro de su contenedor padre.*/
+    margin-right: auto;
+}
